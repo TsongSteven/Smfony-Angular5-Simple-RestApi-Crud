@@ -1,5 +1,5 @@
-# Smfony-Angular5-Simple-RestApi-Crud
-It's a Simple Angular 5 and Symfony 3.3 rest api crud application.
+# Symfony-Angular5-Simple-RestApi-Crud
+It's a Simple Angular 5 and Symfony 3.4 rest api crud application.
 Here Angular 5 is used as front end and Symfony as back end.
 
 #CREATE Angular Project
